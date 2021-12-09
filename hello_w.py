@@ -1,2 +1,2 @@
 print('Hi dear friend!')
-print()
+print('YY')
